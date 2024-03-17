@@ -1,0 +1,8 @@
+Nuoc,N1, Coca Cola, 13000
+Nuoc,N2, Pepsi, 13000
+Nuoc,N3, Cam ep, 15000
+Nuoc,N4, Tra dao, 15000
+Mon An,MA1, Pho, 30000, Viet Nam
+Mon An,MA2, Pizza, 50000, Y
+Mon An,MA3, Shushi, 250000, Nhat Ban
+Mon An,MA4, Banh Mi, 17000, Viet Nam
