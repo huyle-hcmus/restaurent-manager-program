@@ -412,7 +412,7 @@ void Menu::thayDoi(){
 }
 
 int main() {
-    Menu menu("G:/Project/menu.txt");
+    Menu menu("menu.txt");
     HoaDon* hoaDon = new HoaDon();
     int lc;
     int qty;
